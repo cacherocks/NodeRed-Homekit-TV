@@ -35,3 +35,11 @@
 - 9: back
 - 11: play/pause
 - 15: tv settings/info
+
+## 2. Flow
+
+#### Используемые flow nodes:
+- node-red-contrib-lgtv
+- node-red-contrib-advanced-ping
+- node-red-contrib-homekit-bridged
+- node-red-node-wol
